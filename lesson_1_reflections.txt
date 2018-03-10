@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  It was a lot easier to see just the differences in the file, rather than two sets of code, line by line by line. 
+  This cuts a significant amount of time when it comes to searching for bugs.  Rather than wasting hours, or even days, finding a mistake, this only takes a few minutes, and greatly improves efficiency.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    By saving the file periodically, you can revert to an older version of the program in the event that you accidentally delete something important, or of there are too many bugs in the code that you need to revert back in order to salvage any previous work.  In the long term, this makes you a better programmer because you can see what you did right and what you did wrong and thus be able to improve your skills over time.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Pros: You can create your commit when you feel that the time is right.  You will know exactly where you left off, and if you made an error, it will be easier to pinpoint and diagnose the problem.
+
+    Cons: Sometimes if you are so focused on a project, you might forget to save your work in the event that you need to troubleshoot.  This is where auto-saving has its advantages.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    If the multiple files are working hand-in-hand for a larger project, it makes sense to save all files at the same time so that you can look for errors.  The more files needed for a projec, the more complicated.  Git is perfect for this.
+
+    Google Docs, on the other hand, treats files separately, because its a file repository for everything, and they don't necessarily go hand-in-hand (example: a family photo with a death metal mp3)
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use the git log to see all versions of files that were modified.  git diff will tell you what lines were added, deleted, and modified so that if you need to fix a mistake, you know where exactly to look.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Fill in your answer here
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Fill in your answer here
