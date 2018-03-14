@@ -5,3 +5,7 @@ When would you want to create a remote repository rather than keeping all your w
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 --By pulling your changes manually, you can limit the amount of changes in the branch you have to look at, simplifying your git repository
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+-Forking involves multiple collaborators.
+-Cloning can be used to clone someone else's program onto your computer so you can modify it.
+-Branches are separate modifications to your code that are different from the main (master)
