@@ -9,3 +9,6 @@ Describe the differences between forks, clones, and branches. When would you use
 -Forking involves multiple collaborators.
 -Cloning can be used to clone someone else's program onto your computer so you can modify it.
 -Branches are separate modifications to your code that are different from the main (master)
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+The biggest benefit is that you can work on it offline when you have no internet access.
